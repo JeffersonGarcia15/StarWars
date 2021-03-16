@@ -1,0 +1,23 @@
+{
+  "name": "StarWars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffersonGarcia15/StarWars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffersonGarcia15/StarWars/issues"
+  },
+  "homepage": "https://github.com/JeffersonGarcia15/StarWars#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
